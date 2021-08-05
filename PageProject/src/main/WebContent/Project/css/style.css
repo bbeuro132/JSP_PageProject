@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+
+* {
+	font-family: 'Sunflower', sans-serif;
+}
+
+a:hover {/* a태그에 마우스가 올라갈 때 라는 의미*/
+	color: red;
+}
+
+
+a:link { color:black; }
+a:visited { color:black; }	
+a:active { color:green; }
+
+.pageTag {
+	text-align: center;
+	font-weight: bold;	
+}
+		a.titleBTN {
+		text-decoration: none;
+	}
+	
+	a.nameBTN {
+		text-decoration: none
+	}
